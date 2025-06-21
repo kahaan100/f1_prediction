@@ -15,10 +15,11 @@ Evaluate model performance using MAE and R² score.
 
 OUTPUT:-
 
-! [Image Alt](https://github.com/kahaan100/f1_prediction/blob/cf88cb3a3af657a9acff3bc99f244440b3228a4d/Screenshot%20(1).png)
+![Alt Text](https://github.com/kahaan100/f1_prediction/blob/2de794db767c8f7a701b4b447e261a92d4023693/Screenshot%20(1).png)
 
-! [Image Alt](https://github.com/kahaan100/f1_prediction/blob/cf88cb3a3af657a9acff3bc99f244440b3228a4d/Screenshot%202.png)
 
-! [Image Alt](https://github.com/kahaan100/f1_prediction/blob/cf88cb3a3af657a9acff3bc99f244440b3228a4d/Screenshot%20%203.png)
+![Alt Text](https://github.com/kahaan100/f1_prediction/blob/cf88cb3a3af657a9acff3bc99f244440b3228a4d/Screenshot%202.png)
+
+![Alt Text](https://github.com/kahaan100/f1_prediction/blob/cf88cb3a3af657a9acff3bc99f244440b3228a4d/Screenshot%20%203.png)
 
 
